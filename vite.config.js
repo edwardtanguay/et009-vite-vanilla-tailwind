@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  plugins: [tailwindcss()],
+  plugins: [],
   server: {
     hmr: {
       overlay: false
